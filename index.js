@@ -11,7 +11,7 @@ async function main() {
   try {
     logger.info("Starting Worker...");
     logger.info("Starting Worker On Server Biznet...");
-    logger.info("Modifed By Asep Trisna Setiawan, Bandung, 28-10-2024");
+    logger.info("Modifed By Wawan Hermawan, Bandung, 28-10-2025");
     
 
 
